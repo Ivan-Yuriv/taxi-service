@@ -19,6 +19,7 @@ The project follows a three-tier architecture and consists of the following laye
 - JSP, JSTL
 - Maven
 - Apache TomCat 9.0.50
+- Servlet API 
 ## Getting Started
 To run this application, you need to install MySQL and Apache TomCat 9.0.50 on your computer and follow these steps:
 
